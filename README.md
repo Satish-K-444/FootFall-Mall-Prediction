@@ -1,2 +1,1 @@
-# FootFall-Mall-Prediction
-FootFall Mall Prediction
+# Capstone-Project
